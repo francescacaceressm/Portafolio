@@ -7,4 +7,4 @@ Aquí se subirán documentos en donde se explore y analice la base de datos para
 
 - SQL
 - Python
-- Tableau (Proximamente)
+- Tableau
