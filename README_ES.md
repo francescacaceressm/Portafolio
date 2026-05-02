@@ -6,6 +6,8 @@ Este repositorio muestra mis proyectos de análisis de datos usando las herramie
 ## PROYECTOS
 
 1. E-commerce European Fashion
-2. Mental Health (Próximamente...)
+2. Customer Segmentation (Próximamente...)
+3. Mental Health (Próximamente...)
+4. Drug Discovery (Próximamente...)
 
 == EN CONSTRUCCIÓN ==
