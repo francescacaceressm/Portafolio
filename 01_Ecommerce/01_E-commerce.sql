@@ -134,7 +134,7 @@ DROP COLUMN discount_percent;
 ALTER TABLE salesitems 
 RENAME COLUMN discount_percent_clean TO discount_percent;
 
--- 4B) == REVISIÓN DUPLICAODS ==
+-- 4B) == REVISIÓN DUPLICADOS ==
 
 SELECT customer_id, COUNT(*)
 FROM customers
